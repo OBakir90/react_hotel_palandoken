@@ -69,3 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 `yarn add react-day-picker`
+`yarn add formik yup`
+`yarn add moment`
+`yarn add styled-components`
+`yarn add bootstrap`
